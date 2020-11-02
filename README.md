@@ -1,0 +1,1 @@
+A timer app, simple and basic. Built for personal development using Colt Steele JavaScript Bootcamp course.
